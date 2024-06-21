@@ -1,10 +1,10 @@
-#DineAR Apps
+# DineAR Apps
 
-Title - DineAR: Augmented Reality Restaurant Experience
+**Title-** DineAR: Augmented Reality Restaurant Experience
 
-Language Used: - Kotlin with Jetpack Compose
+**Language Used:-** Kotlin with Jetpack Compose
 
-Technology Used: - Sceneview SDK use for Augmented Reality
+**Technology Used:-** Sceneview SDK use for Augmented Reality
 
 **Screen Shots**
 
