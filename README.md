@@ -1,4 +1,4 @@
-DineAR Apps
+#DineAR Apps
 
 Title - DineAR: Augmented Reality Restaurant Experience
 
@@ -6,13 +6,23 @@ Language Used: - Kotlin with Jetpack Compose
 
 Technology Used: - Sceneview SDK use for Augmented Reality
 
-Short Description -
+**Screen Shots**
+
+<p align="middle">
+  <img src="screenshots/1.png" width="200" />
+  <img src="screenshots/2.png" width="200" />
+  <img src="screenshots/3.png" width="200" />
+  <img src="screenshots/4.png" width="200" />
+</p>
+
+
+**Short Description -**
 
 Revolutionize restaurant menus with this Augmented Reality (AR) source code!
 
 This code allows you to build an Android app where customers can use their smartphones to view 3D models of menu items directly on their tables.
 
-Benefits:
+**Benefits:**
 
 -Enhance customer experience with interactive menu exploration.
 -Increase order accuracy and reduce confusion.
@@ -20,7 +30,7 @@ Benefits:
 -Built with Kotlin for smooth development in Android Studio.
 -Leverages camera AI and screen view for seamless AR integration.
 
-Detailed Description -
+**Detailed Description -**
 
 Revolutionize the dining experience with this cutting-edge Augmented Reality (AR) Restaurant Menu source code!
 
