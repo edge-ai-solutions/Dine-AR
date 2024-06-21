@@ -72,3 +72,9 @@ This source code is ideal for:
 -Anyone interested in exploring the potential of AR technology in the restaurant industry.
 
 Don't miss this opportunity to take your restaurant's menu to the next level!
+
+**Support**
+
+For any issues or support, please contact:
+Email: hello@vite.biz
+Website: https://www.vite.biz/
