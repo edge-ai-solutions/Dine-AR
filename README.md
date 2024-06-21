@@ -76,5 +76,7 @@ Don't miss this opportunity to take your restaurant's menu to the next level!
 **Support**
 
 For any issues or support, please contact:
-Email: hello@vite.biz
-Website: https://www.vite.biz/
+
+*Email:* hello@vite.biz
+
+*Website:* https://www.vite.biz/
